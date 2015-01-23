@@ -1,0 +1,17 @@
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.dll
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.pdb
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\GamePlugin.core.xml
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\Duality.dll
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\OpenTK.dll
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\FarseerDuality.dll
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\NVorbis.dll
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\Duality.pdb
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\Duality.xml
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\OpenTK.pdb
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\OpenTK.xml
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\FarseerDuality.pdb
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\FarseerDuality.xml
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\bin\Debug\NVorbis.xml
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\obj\Debug\CorePlugin.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\obj\Debug\GamePlugin.core.dll
+C:\Users\Nathan\Documents\Duality\Project\Source\Code\CorePlugin\obj\Debug\GamePlugin.core.pdb
